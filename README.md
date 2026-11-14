@@ -24,7 +24,7 @@
   </a>
 </p>
 
-<h1>Mojgan Rezakhani</h1>
+
 <h3>Robotics & Autonomous Systems Researcher</h3>
 <p><b>PhD | Robot Perception | SLAM & Navigation | Construction Robotics | Digital Construction</b></p>
 
