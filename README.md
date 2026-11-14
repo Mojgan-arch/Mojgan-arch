@@ -37,7 +37,7 @@
 <tr>
 <td width="50%" valign="top" style="border: none; border-right: 1px solid #d0d7de;">
 
-<h3> About Me</h3>
+<b> About Me</b>
 
 <p>I am a postdoctoral researcher at the University of Salamanca (Spain), working at the intersection of robotics, autonomous systems, computer vision, and intelligent construction technologies.</p>
 
@@ -46,7 +46,7 @@
 </td>
 <td width="50%" valign="top" style="border: none;">
 
-<h3> Technical Skills</h3>
+<b> Technical Skills</b>
 
 <p><b> Robotics & Autonomous Systems</b><br>ROS 2 · PX4 · Gazebo · SLAM · LiDAR · Navigation</p>
 
